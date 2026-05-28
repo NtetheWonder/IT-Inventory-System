@@ -149,7 +149,3 @@ Coding style & notes:
 - Prefer small, testable functions. Avoid importing GUI modules from tests.
 
 
-## License
-
-This project does not include a license file by default. If you want an explicit open-source license, a common choice is the MIT License.
-
